@@ -1,4 +1,4 @@
-(defproject sv/system.httpkit "0.1.0-SNAPSHOT"
+(defproject sv/system.httpkit "0.1.0"
   :description "Components and helper functions to use HTTP Kit in a
                 sv/system-based application."
   :url "https://github.com/SimpleValue/sv.system.httpkit"
